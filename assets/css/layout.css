@@ -1371,7 +1371,7 @@ article:last-child {
 }
 
 #nav ul li a.active span:before {
-    color: #e27689;
+    color: #774F8E;
 }
 
 
@@ -1456,7 +1456,7 @@ article:last-child {
 
 #main>section.one {
     background-color: #81918E;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../../images/background.jpg");
 }
 
 #main>section.two {
